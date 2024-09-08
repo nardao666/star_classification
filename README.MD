@@ -18,7 +18,7 @@ O dataset inclui as seguintes colunas:
 ## Arquivos Disponíveis
 O dataset é fornecido em um arquivo CSV:
 
-* star_type_classification.csv: Contém as observações das estrelas com as colunas mencionadas acima.
+* Star.csv: Contém as observações das estrelas com as colunas mencionadas acima.
 
 ## Referência
 Se você usar este dataset em seus projetos ou publicações, por favor, cite a fonte:
